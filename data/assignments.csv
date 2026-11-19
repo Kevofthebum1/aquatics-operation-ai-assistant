@@ -1,0 +1,3 @@
+shift_id,staff_id,date,start,end,role
+ASSIGN-001,LG06,2026-11-21,11:00,15:00,Lifeguard
+ASSIGN-002,SI01,2026-11-21,08:00,16:00,Swim Instructor
