@@ -1,0 +1,8 @@
+staff_id,name,role,available,cert_expires,hours_this_week,max_weekly_hours
+LG01,Alex Rivera,Lifeguard,yes,2027-08-01,20,40
+LG02,Jamie Chen,Lifeguard,yes,2027-05-30,30,40
+LG03,Morgan Lee,Lifeguard,no,2027-09-01,10,40
+LG04,Taylor Park,Lifeguard,yes,2026-11-12,12,40
+LG05,Sam Patel,Lifeguard,yes,2027-07-04,39,40
+LG06,Jordan Kim,Lifeguard,yes,2027-06-01,16,40
+SI01,Casey Brooks,Swim Instructor,yes,2027-03-15,20,40
