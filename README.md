@@ -32,7 +32,7 @@ python -m unittest -v test_engine.py
 
 Expected result: **43 tests, 0 failures** across five test classes.
 
-## Suggested demo (about 5 minutes)
+## Suggested demo (about 3 minutes)
 
 1. **Natural-language query panel (Section 0):** Type a question such as:
    - *"Who can cover the lifeguard shift?"*
